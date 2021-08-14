@@ -1,0 +1,11 @@
+https://github.com/harblaith7/typeorm-crash-course
+
+npm init -y
+
+npm i express @types/express
+npm i pg ts-node typeorm typescript
+
+npm i nodemon
+
+
+npm dev
